@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Essex vvatchmen's vvatchword to the inhabitants of the said county respectively, dwelling under their several charges, by way of apologetical account, of the true grounds of their first engagement with them in the cause of God, King and Parliament, for their vindication from unjust aspersions. Also by way of faithful premonition of the dangerous evil latent in a printed paper, entituled, The agreement of the people, intended to be tendred to them for subscription.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84124</idno>
+            <idno type="STC">Wing E3342A</idno>
+            <idno type="STC">Thomason E546_11</idno>
+            <idno type="STC">ESTC R7907</idno>
+            <idno type="EEBO-CITATION">99873210</idno>
+            <idno type="PROQUEST">99873210</idno>
+            <idno type="VID">164968</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164968)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E546[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Essex vvatchmen's vvatchword to the inhabitants of the said county respectively, dwelling under their several charges, by way of apologetical account, of the true grounds of their first engagement with them in the cause of God, King and Parliament, for their vindication from unjust aspersions. Also by way of faithful premonition of the dangerous evil latent in a printed paper, entituled, The agreement of the people, intended to be tendred to them for subscription.</title>
+                  <author>D. R. (Daniel Rogers), 1573-1652.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Smith, at the sign of the Bible near the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Daniel Rogers [and 62 other ministers].</note>
+                  <note>In part a reply to: An agreement prepared for the people of England and the places therewith incorporated, for a secure and present peace, upon grounds of common right, freedom and safety.</note>
+                  <note>Annotation on Thomason copy: "March 8 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Agreement prepared for the people of England and the places therewith incorporated, for a secure and present peace, upon grounds of common right, freedom and safety.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164968:1" rendition="simple:additions"/>
+            <p>THE ESSEX VVatchmen's VVatchword To the Inhabitants of the ſaid County reſpectively, dwelling under their ſeveral CHARGES, By way of Apologetical Account, OF The true Grounds of their firſt Engagement with them in <hi>The Cauſe of God, King and Parliament,</hi> for their Vindication from unjuſt Aſperſions. Alſo by way of faithful Premonition of the dangerous evil latent in a printed Paper, entituled, <hi>The Agreement of the People,</hi> Intended to be Tendred to them for Subſcription.</p>
+            <q>
+               <bibl>
+                  <hi>Ezek. 3.17.</hi>
+               </bibl>
+               <p>Son of man, I have made thee a watchman unto the houſe of Iſrael: therefore hear the word at my mouth, and give them warning from me.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Ezek. 33.6.</hi>
+               </bibl>
+               <p>But if the watchman ſee the ſword come, and blow not the Trumpet, and the people be not warned: if the ſword come and take any perſon from among them, he is taken away in his ini<g ref="char:EOLhyphen"/>quity; but his blood will I require at the watchmans hand.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2 Tim. 4.5.</hi>
+               </bibl>
+               <p>But <hi>watch</hi> thou in all things, endure afflictions, do the work of an Evangeliſt, make full proof of thy miniſtery.</p>
+            </q>
+            <p>London, Printed for RALPH SMITH, at the ſign of the Bible near the Royal Exchange. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164968:2"/>
+            <pb n="1" facs="tcp:164968:2"/>
+            <head>To the Religious and Well-affected, The Nobility, Knights, Gentry, Yeomanry and others, dwelling within our ſeveral and reſpective Con<g ref="char:EOLhyphen"/>gregations, <hi>The Spirit of Wiſdom and Diſcerning, with love to Truth and Peace.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſucceſs of the Miniſtery of the Goſpel of <hi>Chriſt,</hi> depending much upon that eſteem which the perſons by whom it is diſpenced have in the hearts of thoſe to whom they are ſent: It hath ever been one Maſter-piece of the Devils Policy, to caſt out againſt them the ſharpeſt Arrows of Slanders and Reproaches, that ſo he might through their ſides wound the Goſpel it ſelf, and render it, if not contemptible and odious, yet fruitleſs, and without ſucceſs. This deſign was never more furiouſly driven on by Satan, and his Inſtruments, then at this time, and in this Nation; where<g ref="char:EOLhyphen"/>in the Miniſters of the Goſpel are generally charged, by rigid Malignants on the one hand, as the men that have been the Authors of all the kingdoms Troubles, Fomentors of theſe unnatural Diviſions and Bloody Wars; yea, as men who have had a ſtrong influence into the contriving and effecting of the Death of our late Soveraign: and by ſevere Sectaries and Se<g ref="char:EOLhyphen"/>ducers on the other hand, as men who for their own meer <hi>In<g ref="char:EOLhyphen"/>tereſt of Power and Gain,</hi> would embroil the kingdom in a new War, oppoſe and diſturb the preſent Setling of Peace and Government in this almoſt ruined Nation.</p>
+            <p>Therefore we whoſe Names are hereunto Subſcribed, Miniſters of the Goſpel of Chriſt in the County of <hi>Eſſex,</hi> do hold our ſelves neceſſitated, according to the Example of the Apoſtles, and others the faithful Servants of Jeſus Chriſt in their generations, to clear our ſelves from theſe un<g ref="char:EOLhyphen"/>juſt Accuſations, by declaring to you of our reſpective Char<g ref="char:EOLhyphen"/>ges,
+<pb n="2" facs="tcp:164968:3"/>whom we have been Inſtruments to engage with, and for the Parliament, what were the grounds of our firſt ap<g ref="char:EOLhyphen"/>pearing for, and adhering to them, and what are our appre<g ref="char:EOLhyphen"/>henſions of the preſent State of things, and of the intended and endeavored Settlement, by ſome miſled with Ignorance and falſe Zeal.</p>
+            <p>We call the God of Heaven and Earth to Witneſs upon our ſouls, That it was not hatred to any Party or Perſon, much leſs to the perſon of our KING, that firſt drew us into this action: But clearly this, Some years before the aſ<g ref="char:EOLhyphen"/>ſembling of this Parliament, we evidently ſaw the Affairs of Church and State in imminent and apparent hazard, Many and great Alterations made in Doctrine, Innovations in Worſhip, The Power of Godlineſs diſgraced, True Religion undermined, The faithful and conſcientious Profeſſors of it perſecuted, even to Bonds, Flight and Impriſonments, Popery Connived at, Countenanced, Courted: Beſides many grievous Oppreſſions of the Subjects in their Liberties and Proper<g ref="char:EOLhyphen"/>ties. Theſe things we ſaw, and ſighed for, but had no thoughts of inciting any to make reſiſtance (though againſt the abuſed Name and Power of a miſguided King, whom we much pityed in his Miſcarriages) until it pleaſed God to bleſs us with a Parliament, the ordinary means which he hath ap<g ref="char:EOLhyphen"/>pointed in this Nation, for the red reſſing of ſuch growing evils.</p>
+            <p>The Parliament meets a firſt and ſecond time, Declare their apprehenſions of the danger of Church and State, the ſame which before had been upon our hearts, Apply themſelves to all humble and ſubmiſs ways, by Petitions, Remonſtrances, &amp;c.<note place="margin">See the Re<g ref="char:EOLhyphen"/>monſtrance of the State of the Kingdom, Dec. 15. 1641.</note> Speak nothing but honorably of the King, Lay the blame of all Miſcarriages upon evil Counſellors, Require them to Tryal: But God, for our ſins and his, ſhuts up his Majeſties heart againſt theſe Addreſſes. In ſtead of yielding up thoſe whom the Parliament demands, he demands ſome of their Members, ſeconds his demands with a face of Violence: And here began that moſt unhappy Breach, The Parliament upon this deſire a Guard, their Guard is the Kings apprehended
+<pb n="3" facs="tcp:164968:3"/>or pretended Terror, He leaves his Parliament upon it, and under ſhadow of a Guard for his Perſon, raiſeth an Army, ſets up his Standard, &amp;c. The Story is too long and ſad for us to relate: But hence aroſe that Fire which ſince hath burnt almoſt to the very Foundations, and who knows when it will be quenched?</p>
+            <p>The Parliament ſeeing which way the Counſels of the King ſteered, apprehend a Neceſſity of raiſing Arms for the Defence of themſelves and the kingdom; for the effect<g ref="char:EOLhyphen"/>ing whereof, they ſend out Propoſitions,<note place="margin">Certain Pro<g ref="char:EOLhyphen"/>poſitions of both Houſes of Parliament<g ref="char:punc">▪</g> concerning the raiſing of horſe horſemen and arms for the Defence of the King, &amp; both Houſes of Parliament, pag. 8.</note> in particular ma<g ref="char:EOLhyphen"/>ner call upon Miniſters to encourage and incite their people to be forward and ready for their own and the Publique good; Declaring (in thoſe Propoſitions) their intendments in raiſing Arms to be no other, then <hi>To maintain the Prote<g ref="char:EOLhyphen"/>ſtant Religion, The Kings Authority and his Perſon, in his Royal Dignity, The free Courſe of Juſtice, The Laws of the Land, The Peace of the Kingdom, and The Priviledge of Parliament, againſt any force which ſhall oppoſe them, and this by the direction of BOTH Houſes of Parliament:</hi> Yea, when the War was firſt commenced between the King and them, their Army carried a Petition in the one hand, as well as a Sword in the other; in which the Lords and Commons do, in the preſence of Almighty God, profeſs, that <hi>If His Majeſty will forthwith return unto his Parliament, &amp;c. they will receive him with all Honor,</hi>
+               <note place="margin">The humble Petition of the Lords and Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, ſent by his Ex<g ref="char:EOLhyphen"/>cellency <hi>Rob:</hi> E. of <hi>Eſſex,</hi> to be by him preſented to His Majeſty, printed September 27. 1642. See alſo a Declaration of the Lords and Commons, in Anſwer to a Preclamation by the King, for ſuppreſſing the Rebels under the Earl of Eſſex, wherein the Lords and Commons, to witneſs their unſhaken Loyalty and Affection to his Majeſty, do ſo<g ref="char:EOLhyphen"/>lemnly Declare, That if his Majeſty ſhall immediately disband all his Forces, and return, &amp;c. they will really endeavor to make both his Majeſty and his Poſterity as much beloved at home, and feared abroad, as any Prince that ever ſwayed this Scepter, which is their firm and conſtant Reſolution. Declar. printed Aug. 16. 1642.</note> 
+               <hi>yield him all due Subjection and Obedience, and faithfully endeavor to ſecure his Perſon and Eſtate from all danger, and do the utmost of their Power to procure and eſtabliſh to himſelf and his People, all the Bleſ<g ref="char:EOLhyphen"/>ſings of a glorious and happy Reign:</hi> We did then verily be<g ref="char:EOLhyphen"/>lieve,
+<pb n="4" facs="tcp:164968:4"/>and yet do, That theſe were the Sincere and Cordial Intentions of the Lords and Commons then aſſembled in Parliament: And although the King was ſo unhappy as to reject that Petition, yet they perſiſted ſtill in the ſame Loyalty of Intentions and Affections toward him, as appears in their many Meſſages to himſelf, and Declarations to the kingdom, and eſpecially by their Solemn League and Cove<g ref="char:EOLhyphen"/>nant: The War having all along gone under the Name and Title of <hi>A War for the Defence of Religion, King and Parliament.</hi>
+            </p>
+            <p>Upon theſe grounds we engaged in this Ccauſe, being cal<g ref="char:EOLhyphen"/>led to it by a lawful Authority, The Two Houſes of Parlia<g ref="char:EOLhyphen"/>ment being the Ordinance of God unto this Nation, for the preventing of Tyranny, and the regulating of the Ex<g ref="char:EOLhyphen"/>orbitancies of Regal Power; and being convinced in our judgements, both of the Equity and Neceſſity of the Par<g ref="char:EOLhyphen"/>liaments Defenſive Arms, and perſwaded of the Loyalty of their Intentions towards his Majeſties Perſon, Poſterity and Crown; and being fully aſſured of our own, having this witneſs in Heaven, and in our own hearts, That that Cala<g ref="char:EOLhyphen"/>mity which hath now befaln the King, and threatens his Po<g ref="char:EOLhyphen"/>ſterity, was exceeding far from our deſires or deſigns: And this our Tears and Prayers poured forth for him in the days of our Humiliation, will, we doubt not, teſtifie for us.</p>
+            <p>We Appeal to God, <hi>The Searcher of all Hearts,</hi> to whom we muſt give account of all our ways, That theſe were the grounds of our firſt Engagement, theſe our In<g ref="char:EOLhyphen"/>tentions in it. But O how amazed are we, to behold the ſad iſſue the War is now driven unto! To ſee a War begun for <hi>The Defence of Religion,</hi> likely to end in <hi>The Ruine of Religion;</hi> a War begun for <hi>The Defence of the King,</hi> even ending in <hi>The Death of the King;</hi> a War begun for <hi>The De<g ref="char:EOLhyphen"/>fence of the Parliament,</hi> ending in <hi>The Violation of the pre<g ref="char:EOLhyphen"/>ſent, and Mutulation of future Parliaments, both in point of Election and Conſtitution. This is a Lamentation, and ſhall be for a Lamentation,</hi> Ezek. 19.14.</p>
+            <p>
+               <pb n="5" facs="tcp:164968:4"/>
+And that we may not ſeem to ſpeak theſe things more out of Affection, then Judgement, We do for our fears about Religion and the Parliament (as for the matter of the King, our Fears are turned into Sorrows, but for the other) refer unto that Model or Draught, publiſhed in print under the Title of <hi>The Agreement of the People;</hi>
+               <note place="margin">See Petition, &amp;c. concern<g ref="char:EOLhyphen"/>ing Agree<g ref="char:EOLhyphen"/>ment of the People. Title Page.</note> which had it been onely offered to the Conſideration of Parlia<g ref="char:EOLhyphen"/>ment, we would not have taken the boldneſs to paſs our judgements upon it ſuddenly, but have expected theirs with due patience: But being Tendred to the Conſideration of the People, and that as we ſuppoſe, in order to a further Tender hereafter to be made unto you for Subſcription, if the Authors may have their deſires; and we in our Souls and Conſciences looking upon ſundry paſſages therein, as a Draught of Poyſon tendred to you in a gilded Cup, We cannot but hold our ſelves obliged in Conſcience of that duty we owe to God, and that tender Love and Care which <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to you the People of our re-ſpective Flocks, to Te<g ref="char:EOLhyphen"/>ſtifie and Declare,</p>
+            <p>That as we our ſelves cannot, ſo it doth not appear unto us, how any elſe ſhould without ſin Sign this Agreement, ſo manifeſtly, directly, neceſſarily tending to the Alteration of the Ancient and well founded Government of the King<g ref="char:EOLhyphen"/>dom, and which our hearts tremble to think of, the Subver<g ref="char:EOLhyphen"/>ſion of the true Reformed Proteſtant Religion, which are two of the richeſt Bleſſings that the God of Heaven did ever beſtow upon any People, and which have made us, even us, the Glory of Nations, and the Envy of our Enemies; But the deprivation or depravation of theſe, what will it render us!</p>
+            <p>The whole firſt Part, branched out into eight Articles, tends too far to a rearing up of our ancient Parliamentary Government: for the Power of Parliament here in <hi>England</hi> is without queſtion Supreme, <hi>Abſolute, <g ref="char:V">Ʋ</g>nlimited,</hi> extend<g ref="char:EOLhyphen"/>ing to <hi>things of Religion,</hi> as well as to Civil things. But this <hi>Agreement</hi> takes away more then the half of their Power wholly denying them Power in matters of Religion, and
+<pb n="6" facs="tcp:164968:5"/>lays ſeveral Reſtraints upon their Power in Civil things. We will not now ſay how ſafely or wiſely in matter of State-policy, this may be either done or endeavored: But our de<g ref="char:EOLhyphen"/>ſire is, That all to whom this Agreement ſhall be tendred, would ſeriouſly, and in the fear of God conſider, Whether a People that are under ſo many Oathes, Vows, Proteſta<g ref="char:EOLhyphen"/>tions, Covenants, for the upholding of the Eſtabliſhed Form of Government, as we in <hi>England</hi> are, can agree to the Sub<g ref="char:EOLhyphen"/>verſion of it, without incurring ſuch guilt and wrath, as may with the very thoughts thereof overwhelm us with horror and aſtoniſhment.</p>
+            <p>And for Religion, againſt which we conceive the main intend<g ref="char:EOLhyphen"/>ment of this <hi>Agreement lies,</hi> and that <hi>all theſe Contrivances</hi> of Alteration in our Civil Government, are but in tendency unto a greater and more deſtructive Alteration in Religion.</p>
+            <p>For although this Agreement ſaith (in the firſt Branch of the Ninth Article, <hi>It is intended, That Chriſtian Religion be held forth as the publike Profeſſion in this Nation, &amp;<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it doth not ſay by whom <hi>it is intended,</hi> nor doth it tell us what is that <hi>Chriſtian Religion,</hi> which is thus intended to be held forth; Whereas they know little, that do not know, That all the Errors and Sects that are or have been in the Church of Chriſt, ſince the Apoſtles days, do all lay claim to the Title of <hi>Chriſtian Religion,</hi> and may all by this Agreement plead, at leaſt, ſtand as Probationers for, the Priviledge of publike Profeſſion, <hi>except Popery and Prelacy;</hi> which how far they are excepted, ſhall in due place be conſidered.</p>
+            <p>We confeſs indeed, <hi>That which is added of deſire to have Religion Reformed to the greateſt purity in Doctrine, Wor<g ref="char:EOLhyphen"/>ſhip and Diſcipline, according to the Word of God;</hi> and alſo care for <hi>Inſtructing of People in a publike way, and for the Confutation of Hereſie and Error,</hi> &amp;c. is neceſſary and good, and the Lord encreaſe that care in us, and thoſe de<g ref="char:EOLhyphen"/>ſires in all: But we conceive the particulars which are an<g ref="char:EOLhyphen"/>nexed and added in this <hi>Agreement,</hi> are ſo inconſiſtent with this deſire and care, as it is in vain to pretend either the one or the other, if thoſe may obtain.</p>
+            <p>
+               <pb n="7" facs="tcp:164968:5"/>
+For firſt, even in this Branch, which is the only Paſſage in the whole Paper that bears the leaſt ſhadow of any Care for Reli<g ref="char:EOLhyphen"/>gion; all the reſt are plainly for Liberty: Yet even in this, there is one little Parentheſis, that like the flye in the Box of oyntment, may make it an abhorring in the noſtrils of every one who is knowingly judicious and plous. And that is, where the <hi>inſtructing of People in a publick way</hi> ſo it be not compulſive <hi>is allowed,</hi> &amp;c. which words <hi>SO IT BE NOT COMP<g ref="char:V">Ʋ</g>LSIVE,</hi> do certainly undermine not only the power of the Civil Ma<g ref="char:EOLhyphen"/>giſtrate, but even of Family-Governours, in the things of God or of his worſhip. For upon this Agreement, no Governour of any Family may uſe any Compulſion to his Child or Ser<g ref="char:EOLhyphen"/>vant, to cauſe him to attend upon the Publique Meanes of In<g ref="char:EOLhyphen"/>ſtruction; but muſt leave him free: Which, what an advan<g ref="char:EOLhyphen"/>tage it would be to unbridled Youth; what an inlet to looſe<g ref="char:EOLhyphen"/>neſſe and prophaneſſe in mens families; how contradictory it is to the IV. <hi>Commandment,</hi> that makes the Governour of the family accountable for the Sabbaths of all that are under his roof; and how much worſe then that once ſo much lamented and deteſted <hi>Declaration of the King's</hi> for the <hi>Toleration of Sports upon the LORDS Day,</hi> let Conſcience ſpeak.</p>
+            <p>And ſecondly, It is in the next Branch expreſly cautioned, <hi>That to the Publike Profeſſion ſo held forth, none may be compel<g ref="char:EOLhyphen"/>led by Penalties or otherwiſe, but only may be indeavoured to be wonne by ſound Doctrine; and the example of a good Conver<g ref="char:EOLhyphen"/>ſation.</hi>
+            </p>
+            <p>Were <hi>England</hi> now in the ſtate of Paganiſme, there might be ſome queſtion of the lawfulnes of Compelling men to the pro<g ref="char:EOLhyphen"/>feſſion of the Chriſtian faith: And yet even then, it were without all queſtion, lawfull for the Chriſtian Magiſtrate to compell them to attend upon the Miniſtry of the Word, the ordinary means of working faith, if voluntarily they wil not do it; for o<g ref="char:EOLhyphen"/>ther wiſe, what poſſibility of their being <hi>won by ſound Doctrine?</hi> But the People of <hi>England</hi> at leaſt the Generality of them having given the hand to Ieſus Chriſt already, and taken upon them already the Profeſſion of faith in Him: To deſire, or en<g ref="char:EOLhyphen"/>gage now, that <hi>none may be compelled to the Profeſſion of the Chriſtian Faith;</hi> is indeed to deſire that men may have liberty
+<pb n="8" facs="tcp:164968:6"/>to apoſtatize, and caſt off the profeſſion of it, <hi>do deſpite to the Spirit of grace, Trample under foot the Blood of the Covenant, Crucifie the Son of God afreſh, put him to an open ſhame;</hi> turn Turks, or Jewes, or Arrians, or Atheiſts, even after they have been bap<g ref="char:EOLhyphen"/>tized and have profeſſed the Chriſtian Religion. Which, how pleaſing it would be to God, what a Bleſſing it would be unto the Nation, and how much it is to be deſired and endeavoured by ſuch as fear the Lord, and wiſh the proſperity of <hi>England,</hi> We leave to themſelves to judge.</p>
+            <p>The following Branch ſpeaks little leſſe, then that ſuch a Liberty as this is aimed at; and in ſome reſpect it faith more; for it requires, <hi>That ſuch as profeſſe Faith in God by Jeſus Chriſt, however differing in Judgement from the Doctrine, Worſhip and Diſci<g ref="char:EOLhyphen"/>pline publikely held forth, as aforeſaid, ſhall not be reſtrained from, but protected in the Profeſſion of their Faith, and exerciſe of their Religion according to their Conſcience in any place, (except ſuch as ſhall be ſet apart for publick Worſhip, where we provide not for them, unleſſe they have leave) So as they abuſe not this Libertie to the Civill injury of others,</hi> or <hi>to actuall diſturbance of the publick Peace on their parts. Nevertheleſſe it is not intended to be hereby provided, that this Liberty ſhall neceſſarily extend to Popery or Prelacy.</hi>
+            </p>
+            <p>We verily thinke there is ſo much Zeale for God and for his truth, yet living in the Breaſts of his People here in <hi>England,</hi> as if it were but fully underſtood what the Perſons are, for whom Liberty is here endeavoured, and what this Liber<g ref="char:EOLhyphen"/>ty is that is here attempted for them; they would be ſo farre from ſubſcribing their hands to this Agreement, as at the ve<g ref="char:EOLhyphen"/>ry hearing of it, they would rend their clothes and caſt duſt upon their heads, yea rather give their right hand to the fire, as holy <hi>Crammer</hi> did after his ſubſcription, then ever ſubſcribe at all; for who are the Perſons for whom the Liberty is pro<g ref="char:EOLhyphen"/>vided? <hi>Such as profeſſe Faith in God by Ieſus Chriſt.</hi> And who almoſt is there that wil not profes faith in God by Ieſus Chriſt not only <hi>Anabaptiſts, Antinomians, Arminians,</hi> but <hi>Arrians, Sociniaus, Photinians,</hi> thoſe that hold the moſt<g ref="char:punc">▪</g> blaſphemous errours about the Godhead of Chriſt, and of the holy ſpirit, yea the <hi>Papiſts</hi> themſelves who <hi>all will profeſſe faith in God by Ieſus Chriſt,</hi> will come in for their ſhare in this liberty, eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="9" facs="tcp:164968:6"/>conſidering that it is added, <hi>however differing in judge<g ref="char:EOLhyphen"/>ment from the Doctrine, Diſcipline or Worſhip eſtabliſhed, &amp;c.</hi> That let the difference be of never ſo great a latitude, let them dif<g ref="char:EOLhyphen"/>fer as much as light and darkneſſe, yet profeſſing faith in God by Ieſus Chriſt, <hi>they ſhall not be reſtrained from the Profeſſion of their faith, and exerciſe of Religion,</hi>
+               <note place="margin">It is to be ob<g ref="char:EOLhyphen"/>ſerved that in the cloſe of this <hi>Agree<g ref="char:EOLhyphen"/>ment,</hi> where they ſhew what particu<g ref="char:EOLhyphen"/>lars in it they reſolve to maintain to the utmoſt, and what they only commend as uſefull &amp; good for the Pub<g ref="char:EOLhyphen"/>like; the ſe<g ref="char:EOLhyphen"/>cond and third Branch about Toleration are caſt in among the firſt, ſort and the firſt about the Profeſſion of the Chriſti<g ref="char:EOLhyphen"/>an faith is ran<g ref="char:EOLhyphen"/>ked n amongſt the ſecond.</note> though their faith be blaſ<g ref="char:EOLhyphen"/>phemous, and the exerciſe of their Religion groſſe idolatry, yet they <hi>ſhall not be reſtrained from it:</hi> ray, thats too little, they <hi>ſhall be protected in it;</hi> which is more then this Paper ſpeaks of: the Chriſtian faith to be held forth in publick, that is <hi>in<g ref="char:EOLhyphen"/>tended</hi> to onely <hi>be recommended</hi> and <hi>inſtruction thereunto allowed to be provided for.</hi> But theſe <hi>ſhall be protected in the exerciſe of theirs, in any place except places appointed for publike worſhip; where</hi> ſay they <hi>we provide not for them unleſſe they have leave.</hi> But whether this be the <hi>leave</hi> of the ſupreme Magiſtrate or the <hi>leave</hi> of the inferiour Magiſtrate, or the <hi>leave</hi> of the Miniſter, or of the People aſſembled in ſuch place of publike worſhip, or any part of them; who can tell? To be ſure here is a door wide enough for the maſſe with all its equipage to come in at, though not altogether ſo publikely; <hi>ſo as this Liberty be not a<g ref="char:EOLhyphen"/>buſed to the Civilli jury of others, and the</hi> ACTUAL <hi>diſturbance of the publike peace</hi> ON THEIR <hi>parts.</hi> That let them vent never ſo much blaſphemy againſt God, Treaſon againſt the State, let them ſow the ſeeds of never ſo much ſedition, and lay the foundations of never ſo much diſturbance, yet they for<g ref="char:EOLhyphen"/>feit not their Liberty, except there be an <hi>actuall diſtu bance,</hi> nor then neither except it be on their parts, and they ſtrike the firſt blow. Is then the civill injury of others a greater ſince, then the injury of the eternall Majeſty of God, then blaſphemy againſt Ieſus Chriſt and the Holy Spirit, then infamy to the Go<g ref="char:EOLhyphen"/>ſpel, then ſcandall to the Churches? But to cleare themſelves, they tell us <hi>it is not intended to be hereby provided, that this Liber<g ref="char:EOLhyphen"/>ty ſhall neceſſarily extend to Popery and Prelacy.</hi> The Penners or Promoters of this <hi>Agreement,</hi> would faine beget an opinion of themſelves, that they are great enemies to <hi>Popery</hi> and <hi>Pre<g ref="char:EOLhyphen"/>lacy.</hi> But wherein? they had provided before <hi>that Popery or Prelacy, he not held forth as the publike Way or Profeſſion in this Na<g ref="char:EOLhyphen"/>tion;</hi> This denyes not but that both may be tolerated in the
+<pb n="10" facs="tcp:164968:7"/>Nation; and this third branch makes proviſion that they may; for both <hi>Prelacy</hi> and <hi>Popery</hi> make <hi>Profeſſion of faith in God by Ie<g ref="char:EOLhyphen"/>ſus Chriſt,</hi>
+               <note place="margin">Compare the firſt part of the Agreement with the laſt.</note> and however they ſay here that it is not intended that this Liberty ſhould NECESSARILY extend to <hi>Popery</hi> and <hi>Pre<g ref="char:EOLhyphen"/>lacy,</hi> that does not deny but that <hi>Arbitrarily</hi> it may; and though they tell us <hi>it is not intended that it ſhould,</hi> yet thoſe very words ſhew <hi>it was never intended that it ſhould not.</hi>
+            </p>
+            <p>But if this were not, yet for whom is that intended in the fourth Branch? <hi>That all Lawes, Ordinances, Statutes, and Clau<g ref="char:EOLhyphen"/>ſes in any Law, Statute or Ordinance to the contrary, of the Liber<g ref="char:EOLhyphen"/>ty herein provided for, in the two particulars next preceding con<g ref="char:EOLhyphen"/>cerning Religion, be and are hereby repealed and made void;</hi> where not to inſiſt upon the power of repealing Lawes and Statutes, of which the Parliament ſeems here diveſted, theſe Subſcribers inveſting themſelves with it, we offer it to ſeri<g ref="char:EOLhyphen"/>ous conſideration how more then probable it is, that the Oaths of Allegiance and Supremacy being taken away, which was the uſuall <hi>Shibboleth,</hi> whereby diſcovery was made of Ro<g ref="char:EOLhyphen"/>miſh Prieſts and Ieſuites, (and taken away they are by this A<g ref="char:EOLhyphen"/>greement, that takes away the Crowne it ſelfe) and all other Lawes and Statutes for convicting and puniſhing of po<g ref="char:EOLhyphen"/>piſh Recuſants being repealed, we deſire againe it may be conſidered, how more then probable it is that all the Engliſh Seminaries in the world, will empty their forces of Prieſts and Jeſuites into this miſerable Kingdom: for they whoſe zeal did ſo tranſport them heretofore, as they would be among us, though with the hazard of their lives; what can ſtay them, now the way is thus cleared and ſmoothed for them? And be<g ref="char:EOLhyphen"/>ing among us, they will be as forward as any in Signing this <hi>Agreement,</hi> as likely moſt of the Papiſts in <hi>England</hi> will and ſo are <hi>ipſo facto</hi> made equally capable of Civil and Military Offices with the beſt of Proteſtants, yea more capable then any that do not ſubſcribe this <hi>Agreement.</hi> And how eaſie is it for thoſe active ſpirited men, in a little time, to work all places of Truſt and Power into their own hands, and the hands of their party; and in the ſpace of one fourteen yeares, pack a <hi>Repreſentative</hi> fully to their minds? and what a Settlement they may make of things, Let him that doth not know, look back to <hi>Q. Marus</hi>
+               <pb n="11" facs="tcp:164968:7"/>dayes, and read in the Blood or our Anceſtors.</p>
+            <p>Theſe things we have written, God is our Record, not out of any deſire we have to hinder the Peace &amp; Settlement of this poor Nation, for our own Intereſt of Power and Advantage; The Lord judge between us and them who lay theſe things to our charge: Much leſſe have we written them with any intention of inciting you our People or others to make a forcible oppoſition without or againſt Lawful Authority; But only to clear our ſelves, if not from prejudice, yet at leaſt from guilt; and to diſcharge the duty of our place, by giving you this publike and joint Warning of thoſe ſnares we ſee prepared for you, to take you off from all thoſe Oaths, Vowes, Covenants, wherein you ſtand engaged to maintain the <hi>true Reformed Proteſtant Religion,</hi> and the <hi>Ancient Government of the Kingdome.</hi> We leave the whole to your Conſideration; and do once for all appeale to your Conſciences, and the Conſciences of all to whom this pre<g ref="char:EOLhyphen"/>monition ſhal come: Is this proviſion which this <hi>Agreement</hi> would make in the things of God and of Religion; is this we ſay the fruit of an hundred years enjoyment of the Goſpel? Is this the Refor<g ref="char:EOLhyphen"/>mation of Religion according to the Word of God, and the pattern of the beſt Reformed Churches? Is this the Extirpati<g ref="char:EOLhyphen"/>on of Popery, Prelacie, Superſtition, Hereſie, Schiſme, Profane<g ref="char:EOLhyphen"/>neſſe, which we have Covenanted and ſworne with our hands lifted up to the moſt high God? Is this it which we have pray<g ref="char:EOLhyphen"/>ed for, waited for, engaged for, ſuffered, endured ſo many and great things for? That Popery, Prelacie, and all manner of Errors and Hereſies, provided they profeſſe faith in God by Ieſus Chriſt ſhould be tolerated and protected among us by a Law? If in your Conſciences you think it be, Go on, Sub<g ref="char:EOLhyphen"/>ſcribe this <hi>Agreement.</hi> Nevertheleſſe we have delivered our own ſoules. But if this <hi>Agreement</hi> be contrary to your <hi>Covenant,</hi> (as without all perad venture it is) ſo contrary, as what our Sa<g ref="char:EOLhyphen"/>viour ſaid of God and Mammon, may be ſaid of theſe. <hi>You cannot love and cleave to the one, but you muſt hate and forſake the other;</hi> Then let us in the bowels of our Lord Jeſus Chriſt be<g ref="char:EOLhyphen"/>ſeech you, as you tender your preſent and eternall good, and the good of your deare poſterities, yea, in His Name
+<pb n="12" facs="tcp:164968:8"/>we require and charge you, as you would not be found guilty of all the Errors, Idolatrie, Blaſphemie, wickedneſſe, Irreligion, that by this floodgate, if once opened, will break in upon this Nation, have nothing to do with this ſinful enſnaring <hi>Agreement,</hi> avoid it, flie from it, as from the ſureſt, if not onely engine Sathan hath now left him for the demoliſhing of the Beauty, yea Being of Religion; and the advancing of Popery, Error, Blaſphemy, and whatever may make us an abhorring to God, a hiſſing to men, and an execration to all the Churches of Ieſus Chriſt.</p>
+         </div>
+         <div type="list_of_names">
+            <p>SOme of us whoſe names are here ſubſcribed, have not ſuch perfect memories, as to teſtifie punctually all that is related concerning the beginnings and proceedings of our late Warres: Some others of us were not then in the Miniſtry: And ſome, very few of us, we confeſſe were not ſo apprehenſive of the then preſent, and now enſuing evils, till God, and better information enlightned our minds. But all of us do freely and ſolemnly underwrite the ſubſtance of what is here publiſhed concerning the Honour of GOD, the Advice to our Congregations, and the Vindication of our Names traduced by unreaſonable Malignants and Secta<g ref="char:EOLhyphen"/>ries.</p>
+            <list>
+               <pb n="13" facs="tcp:164968:8"/>
+               <item>Daniel Rogers <hi>Miniſter and Lecturer at</hi> Wethersfield.</item>
+               <item>Sam Collins <hi>Miniſter of</hi> Brayntre.</item>
+               <item>Nicolas Beard <hi>Paſtor of</hi> Rochford.</item>
+               <item>Matth. Newcomen <hi>Miniſter of the Goſpel in</hi> Dedham.</item>
+               <item>George Smith <hi>Miniſter of the Goſpel in</hi> Dedham.</item>
+               <item>Iſrael Hewet <hi>Miniſter in</hi> Malden.</item>
+               <item>Alexander Pigot <hi>Paſtor of the Hithe-Pariſh in</hi> Colcheſter.</item>
+               <item>John Edes <hi>Paſtor of</hi> Lawford.</item>
+               <item>Nathaniel Bugg <hi>Paſtor of</hi> Horkſlie mag,</item>
+               <item>John Hubbert <hi>Miniſter of the Goſpel at</hi> Boxtad.</item>
+               <item>Robert Cole <hi>Miniſter of</hi> Great-Okely.</item>
+               <item>Nath. Carr <hi>Miniſter of</hi> Ardley.</item>
+               <item>James Moore <hi>Miniſter of</hi> Laynden.</item>
+               <item>Edmund Brewer <hi>Miniſter of</hi> Caſtle-Heveningham.</item>
+               <item>Robert Chadſley <hi>Miniſter of</hi> Yeldham parva.</item>
+               <item>John Overed <hi>Miniſter of</hi> Toppesfield.</item>
+               <item>Jo. Tharby <hi>Miniſter of</hi> Geſtlingthorp.</item>
+               <item>Zachariah Fitch <hi>Miniſter of</hi> Twinſted.</item>
+               <item>Tho. Dearſley <hi>Miniſter of</hi> Wickham-Paul.</item>
+               <item>Ralph Hills <hi>Miniſter of</hi> Ridgwell.</item>
+               <item>Daniel Weld <hi>Miniſter at</hi> Wethersfield.</item>
+               <item>Nathaniel Ranew <hi>Miniſter of the Word at</hi> Felſted.</item>
+               <item>Sam. Aynſworth <hi>Miniſter of the Word at</hi> Stebbing.</item>
+               <item>William Smethies <hi>Miniſter of</hi> Rayne parva.</item>
+               <item>Edward Ford <hi>Miniſter of</hi> great Warley.</item>
+               <item>Daniel Lathum <hi>Miniſter of</hi> Stifford.</item>
+               <item>Richard Cardinal <hi>Miniſter of</hi> Weſt-Horndon.</item>
+               <item>Tho. Goodwin <hi>Miniſter of the Word.</hi>
+               </item>
+               <item>Thomas Rotheram <hi>Miniſter at</hi> Boreham.</item>
+               <item>John Wilſon <hi>Paſtor at</hi> little-Baddow.</item>
+               <item>John Bowyer <hi>Miniſter of</hi> Dagenham.</item>
+               <item>Marmaduke James <hi>Miniſter of</hi> 
+                  <g ref="char:V">Ʋ</g>pminſter.</item>
+               <item>Walter Taylor <hi>Miniſter of</hi> Hutton.</item>
+               <item>Samuel Bridge <hi>Paſtor of</hi> Great-Burſted.</item>
+               <item>Henry Eſday <hi>Paſtor of</hi> Gingrave,</item>
+               <item>William How <hi>Miniſter of the Word at</hi> Dunton.</item>
+               <item>Edward Clarke <hi>Miniſter of</hi> Bowers.</item>
+               <item>
+                  <pb n="14" facs="tcp:164968:9"/>
+Thomas Clerk <hi>Miniſter of</hi> Styſted.</item>
+               <item>Abiel Rathband <hi>Miniſter of the Goſpel at</hi> Writtle.</item>
+               <item>John Parkhurſt <hi>Miniſter of</hi> South-Showberie.</item>
+               <item>Tho. Oresby <hi>Paſtor of</hi> Hackwell.</item>
+               <item>Tho. Peck <hi>Paſtor of</hi> Prittlewell.</item>
+               <item>John Gibſon <hi>Paſtor of</hi> Aſſindon.</item>
+               <item>Abraham Caley <hi>Paſtor of</hi> Rayleigh.</item>
+               <item>John Man <hi>Paſtor of</hi> Rawreth.</item>
+               <item>John Argor <hi>Miniſter of</hi> Leigh.</item>
+               <item>Joſiah Church <hi>Miniſter in</hi> Seachurch.</item>
+               <item>Chriſtopher Scot <hi>Paſtor of</hi> Wakering magna.</item>
+               <item>James Norris <hi>Miniſter of</hi> Canwedon.</item>
+               <item>Thomas Horrocks <hi>Miniſter of</hi> Stapleford-Tawny.</item>
+               <item>George Bownd <hi>Miniſter of the Goſpel at</hi> Kelvedon.</item>
+               <item>Philip Sanders <hi>Miniſter of</hi> Magdalon-Laver.</item>
+               <item>Neh. Dodde <hi>Miniſter of</hi> Dodinhurſt.</item>
+               <item>Nath. Lacy <hi>Miniſter of</hi> Greenſted.</item>
+               <item>John Ferriby <hi>Miniſter of</hi> Thoydon-Garnon.</item>
+               <item>John Lavender <hi>Miniſter of</hi> High-Ongar.</item>
+               <item>Hen. Havers <hi>Miniſter of the Goſpel at</hi> Fifield.</item>
+               <item>Edward Whiſton <hi>Paſtor of</hi> Norton-Mandevile.</item>
+               <item>William Guthrie <hi>Miniſter of</hi> Aſheldham.</item>
+               <item>Nathaniel Hewitſon <hi>Miniſter of</hi> Woodham-Mortimer.</item>
+               <item>Nebemiah Holmes <hi>Miniſter of</hi> South-Minſter.</item>
+               <item>Daniel Duckfield <hi>Miniſter of</hi> Childerdiſh.</item>
+               <item>Nathaniel Ward <hi>Miniſter of the Goſpel at</hi> Shenfield.</item>
+               <trailer>FINIS.</trailer>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <date>
+                  <hi>Febr.</hi> 15. 1648.</date>
+            </opener>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>JA. CRANFORD.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
